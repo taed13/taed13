@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tien Dat</h1>
-<h3 align="center">A full-stack web developer from Vietnam</h3>
+<h3 align="center">A full-stack web developer from Thanh Hoa, Vietnam</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS,...**
 
