@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tien Dat</h1>
 <h3 align="center">A full-stack web developer from Thanh Hoa, Vietnam</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS,...**
+- 🌱 I’m currently learning **ReactJS, NodeJS, Networking, Machine Learning...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
